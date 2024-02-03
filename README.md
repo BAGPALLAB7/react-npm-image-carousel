@@ -1,11 +1,11 @@
 ### Copy to install 
 ```sh
-npm install bagpallab7-react-image-carousel
+npm install bagpallab7_react_image_carousel
 ```
 
 ### import to use the package
 ```sh
-import useCarousel from "bagpallab7-react-image-carousel";
+import useCarousel from "bagpallab7_react_image_carousel";
 ```
 ### Extract the functionality 
 ```sh
