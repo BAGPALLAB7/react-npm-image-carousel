@@ -1,0 +1,33 @@
+{
+  "name": "bagpallab7-react-image-carousel",
+  "version": "1.0.0",
+  "description": "This is a advance react custom hook that simplify image carousel advance functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BAGPALLAB7/react-npm-image-carousel.git"
+  },
+  "keywords": [
+    "react",
+    "npm",
+    "custom",
+    "hooks",
+    "image",
+    "carousel",
+    "hook",
+    "react",
+    "hooks"
+  ],
+  "author": "bagpallab7",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BAGPALLAB7/react-npm-image-carousel/issues"
+  },
+  "homepage": "https://github.com/BAGPALLAB7/react-npm-image-carousel#readme",
+  "devDependencies": {
+    "react": "^18.2.0"
+  }
+}
